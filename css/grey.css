@@ -9,16 +9,27 @@ h1 {
   }
 body {
   color: rgba(39, 25, 241, 0.897);
+  background-color: deepskyblue;
   text-align: right;
   font-style: italic;
   font-weight: medium;
-  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-family: sans-serif;
   font-size: 22px;
   line-height: 28.9px;
+  box-sizing: border-box;
   }
 p {
   color: rgba(14, 150, 48, 0.842);
+  box-sizing: border-box;
 }
-body {
-  background-color:black
+
+.flashy{
+  color: darkred;
+  text-align: center;
+  font-style: bold:italic;
+  font-weight: medium;
+  font-family: Times;
+  font-size: 22px;
+  line-height: 28.9px;
+  
 }

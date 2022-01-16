@@ -3,7 +3,7 @@ h1 {
   text-align: center;
   font-style: italic;
   font-weight: medium;
-  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-family: sans-serif;
   font-size: 22px;
   line-height: 28.9px;
   }
@@ -26,10 +26,16 @@ p {
 .flashy{
   color: darkred;
   text-align: center;
-  font-style: bold:italic;
+  font-style: bold;
   font-weight: medium;
   font-family: Times;
   font-size: 22px;
   line-height: 28.9px;
   
+}
+img {
+  float: center;
+  border-color: fuchsia;
+  
+
 }

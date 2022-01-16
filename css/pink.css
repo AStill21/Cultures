@@ -8,6 +8,7 @@ h1 {
   line-height: 28.9px;
   }
 body {
+  background-color: dodgerblue;
   color: rgba(25, 241, 115, 0.897);
   text-align: center;
   font-style: italic;
@@ -15,4 +16,5 @@ body {
   font-family: Georgia, Times, 'Times New Roman', serif;
   font-size: 22px;
   line-height: 28.9px;
+  box-sizing: border-box;
   }

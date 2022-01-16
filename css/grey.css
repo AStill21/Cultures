@@ -1,0 +1,24 @@
+h1 {
+  color: turquoise;
+  text-align: center;
+  font-style: italic;
+  font-weight: medium;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 22px;
+  line-height: 28.9px;
+  }
+body {
+  color: rgba(39, 25, 241, 0.897);
+  text-align: right;
+  font-style: italic;
+  font-weight: medium;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 22px;
+  line-height: 28.9px;
+  }
+p {
+  color: rgba(14, 150, 48, 0.842);
+}
+body {
+  background-color:black
+}

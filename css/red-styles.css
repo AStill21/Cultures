@@ -1,0 +1,20 @@
+h1 {
+  color:red;
+  background-color: rgb(139, 21, 185)
+  text-align: center;
+  font-style: italic;
+  font-weight: thick;
+  font-family: times;
+  font-size: 25px;
+  line-height: 39px;
+  }
+
+body {
+  color: rgba(241, 25, 223, 0.897);
+  text-align: center;
+  font-style: italic;
+  font-weight: medium;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 22px;
+  line-height: 28.9px;
+  }

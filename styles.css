@@ -1,0 +1,22 @@
+img {
+  box-sizing: border-box;
+  text-align: right;
+  padding: 5px;
+  float:left;
+  display: block;
+  width:
+}
+p {
+  float:left
+  color: purple;
+  background-color: gold;
+  box-sizing: border-box;
+  margin: 10px;
+  width: 25%;
+}
+body {
+  background-image: url("10.png");
+  background-color: aqua;
+  box-sizing: border-box;
+
+}
